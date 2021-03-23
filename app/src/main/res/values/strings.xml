@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">HomeFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_location">Gajah Mungkur,Semarang</string>
+    <string name="txt_magrib">Magrib</string>
+    <string name="txt_waktu">18:09</string>
+    <string name="home_txt_waktu_minus">- 1:29:01</string>
+    <string name="home_tanggal_nasional">Sabtu , 20 Februari</string>
+    <string name="home_txt_tanggal_islam">8 Rajab 1442 AH</string>
+    <string name="txt_al_quran">Al-Quran</string>
+    <string name="txt_tokoh">Tokoh</string>
+    <string name="txt_zizwaf">Ziswaf</string>
+    <string name="txt_lain_lain">Lain-lain</string>
+    <string name="txt_berita">Berita</string>
+    <string name="txt_lebih_banyak">Lebih banyak</string>
+    <string name="txt_lorem">Lorem ipsum dolor sit amet, dururu consectetur adipiscing elit. Non quis mi, et tristique sed.</string>
+    <string name="txt_tgl">21 Februari 2021</string>
+    <string name="txt_title">Judul</string>
+    <string name="txt_readmore">Read More</string>
+    <string name="txt_kajian">Kajian</string>
+    <string name="txt_kalam">Kalam</string>
+    <string name="txt_read_more">Read More</string>
+    <string name="txt_beranda">Beranda</string>
+    <string name="txt_markeplace">Markeplace</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_title_category">Semua Kategori</string>
+    <string name="txt_artikel">Artikel</string>
+    <string name="txt_keislaman">Keislaman</string>
+    <string name="txt_ziarah">Ziarah</string>
+    <string name="txt_topik">Topik</string>
+    <string name="txt_bacaan">Bacaan</string>
+    <string name="txt_doa">Doa</string>
+    <string name="txt_yasin_tahlil">Yasin dan tahlil</string>
+    <string name="txt_wirid">Wirid</string>
+    <string name="txt_pengajian_shalawat">Pengajian dan shalawat</string>
+    <string name="txt_maulid">Maulid</string>
+    <string name="txt_pengajian">Pengajian</string>
+    <string name="txt_kiblat">Kiblat</string>
+    <string name="txt_jadwal_sholat">Jadwal sholat</string>
+    <string name="txt_shalat">Shalat</string>
+    <string name="txt_ziswaf_donasi">Ziszwaf dan Donasi</string>
+    <string name="txt_zakat">Zakat</string>
+    <string name="txt_infak">Infak</string>
+    <string name="txtwakaf">Wakaf</string>
+    <string name="txt_donasi">Donasi</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="txt_search">Cari</string>
+    <string name="txt_pencarian_terakhir">Pencarian Terakhir</string>
+    <string name="txt_q_s_al_imran_188">Q.S Al-Imran 188</string>
+    <string name="txt_semua">Semua</string>
+    <string name="txt_sejarah">Sejarah</string>
+    <string name="txt_cinta">Cinta</string>
+    <string name="txt_tauhid">Tauhid</string>
+    <string name="txt_news">Terbaru</string>
+    <string name="txt_title_fragment_kajian_new">Peringatan Hari Sa...</string>
+    <string name="txt_channel">NU Channel</string>
+    <string name="txt_recommendation">Rekomendasi</string>
+    <string name="txt_favorite">Favorite</string>
+    <string name="txt_listenUp">Dengarkan</string>
+    <string name="txt_watch">Tonton</string>
+    <string name="title_watch">Gus Muwafiq : Menjadi Ulama itu Berat</string>
+    <string name="txt_gus_muwafiq_channel">Gus Muwafiq Channel</string>
+    <string name="txt_follower">190.000 follower</string>
+    <string name="txt_subsribe">Ikuti</string>
+    <string name="txt_content_desc">Menurut Imam Ghazali, jka ia benar sudah yakin berdasarkan Al-Quran, hadis, Ijma dan qiyas, maka ia boleh berfatwa. Jika meragukan, maka jawab saja tidak tahu (la adri). Menurut As-Sya’bi, menjawab tidak tahu termasuk setengah dari pengetahuan. Ibnu Mas’ud menuduh gila orang yang begitu gampang menjawab pertanyaan agama. Adab kedua, pengajar harus mengukur pemahaman muridnya. Mabhas keempat, sifat-sifat orang berilmu.</string>
+    <string name="txt_deskripsi">Deskripsi</string>
+    <string name="txt_share">Bagikan</string>
+    <string name="txt_comment">Komentar</string>
+    <string name="add_comment">Tambahkan komentar</string>
+    <string name="txt_name">Pamungkas</string>
+    <string name="txt_comment_usr">Subahanalloh.. ngajinya selow. Jadi yang denger bisa memahami</string>
+    <string name="txt_comment_user">Hebat pak kyai ini ingatannya  dan menceritakan  rentetan sejarah Islam, semoga beliau  selalu sehat panjang umur. Aamiin yrb</string>
+    <string name="txt_name_user2">Budi Tamrin</string>
+    <string name="txt_title_zakat">Ayo hitung zakat kamu!</string>
+    <string name="txt_intruksi_zakat">Coba masukkan jumlah hartamu dan kalkulator kami akan menghitung jumlah zakatnya</string>
+    <string name="txt_jenis_zakat">Jenis zakat</string>
+    <string name="txt_pilih_jenis_zakat">Pilih jenis zakat</string>
+    <string name="txt_wealth">Kekayaan (1 Tahun)</string>
+    <string name="txt_hitung_sendiri_zakat_mall">Hitung sendiri zakat mall</string>
+    <string name="txt_rp">Rp</string>
+    <string name="txt_total_zakat">Total Zakat Kamu</string>
+    <string name="txt_0">0</string>
+    <string name="txt_bayar_zakat">Bayar Zakat</string>
+    <string name="txt_method_payment">Metode Pembayaran</string>
+    <string name="txt_masukan_metode_pembayaran">Masukan metode pembayaran</string>
+    <string name="txt_jenis_infak">Jenis infak</string>
+    <string name="txt_nominal_infak">Nominal Infak</string>
+    <string name="txt_bayar_infak">Bayar Infak</string>
+    <string name="txt_total_infak">Total Infak Kamu</string>
+    <string name="txt_bayar_wakaf">Bayar Wakaf</string>
+    <string name="txt_total_wakaf">Total Wakaf Kamu</string>
+    <string name="txt_nominal_wakaf">Nominal Wakaf</string>
+    
+    
+<!--    string array spinner infak-->
+    <string-array name="list_infak">
+        <item>Pilih Jenis Infak</item>
+        <item>Berbagi Berkah</item>
+        <item>Berbagi Rezeki</item>
+    </string-array>
+
+<!--        spinner zakat-->
+    <string-array name="lis_zakat">
+        <item>Pilih Jenis Zakat</item>
+        <item>Maal</item>
+    </string-array>
+</resources>
