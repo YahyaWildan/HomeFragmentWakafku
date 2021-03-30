@@ -83,7 +83,7 @@
     <string name="txt_pilih_jenis_zakat">Pilih jenis zakat</string>
     <string name="txt_wealth">Kekayaan (1 Tahun)</string>
     <string name="txt_hitung_sendiri_zakat_mall">Hitung sendiri zakat mall</string>
-    <string name="txt_rp">Rp</string>
+    <string name="txt_rp">Rp </string>
     <string name="txt_total_zakat">Total Zakat Kamu</string>
     <string name="txt_0">0</string>
     <string name="txt_bayar_zakat">Bayar Zakat</string>
@@ -96,16 +96,46 @@
     <string name="txt_bayar_wakaf">Bayar Wakaf</string>
     <string name="txt_total_wakaf">Total Wakaf Kamu</string>
     <string name="txt_nominal_wakaf">Nominal Wakaf</string>
-    
-    
-<!--    string array spinner infak-->
+    <string name="txt_payment">Pembayaran</string>
+    <string name="txt_pembayaran_melalui_bca_virtual_account">Pembayaran melalui BCA virtual account</string>
+    <string name="txt_status">Pending</string>
+    <string name="txt_detail_pembayaran">Detail Pembayaran</string>
+    <string name="txt_nama_donatur">Nama Donatur</string>
+    <string name="txt_username_donatur">Budiman</string>
+    <string name="txt_zakat_mall">Zakat Mall</string>
+    <string name="txt_waktu_transaksi">Waktu Transaksi</string>
+    <string name="date_transaction">2021-01-27</string>
+    <string name="txt_hour">16:03:00</string>
+    <string name="txt_total_pembayaran">Total Pembayaran</string>
+    <string name="txt_total_payment">Rp 500.000</string>
+    <string name="txt_yang_dibayar">Yang Dibayar</string>
+    <string name="txt_subtitle">Sebentar lagi kamu akan membersihkan hartamu</string>
+    <string name="txt_virtual_account_bca">Virtual Account BCA</string>
+    <string name="txt_number">129108636079813</string>
+    <string name="txt_nominal">Rp. 500.000,00</string>
+    <string name="txt_search_marketplace">Cari kebutuhan kamu</string>
+    <string name="txt_produk_terbaru">Produk Terbaru</string>
+    <string name="txt_name_produc">Gamis Santai Formal</string>
+    <string name="txt_price_product">350.000</string>
+    <string name="txt_warna">Warna : </string>
+    <string name="txt_navy">Navy</string>
+    <string name="txt_ukuran">Ukuran : </string>
+    <string name="txt_size">M</string>
+    <string name="txt_tambah_keranjang">Tambah Keranjang</string>
+    <string name="txt_cart">Keranjang</string>
+    <string name="txt_select_all">Pilih semua</string>
+    <string name="txt_delete">Hapus</string>
+    <string name="txt_total_harga">Total Harga</string>
+
+
+    <!--    string array spinner infak-->
     <string-array name="list_infak">
         <item>Pilih Jenis Infak</item>
         <item>Berbagi Berkah</item>
         <item>Berbagi Rezeki</item>
     </string-array>
 
-<!--        spinner zakat-->
+    <!--        spinner zakat-->
     <string-array name="lis_zakat">
         <item>Pilih Jenis Zakat</item>
         <item>Maal</item>

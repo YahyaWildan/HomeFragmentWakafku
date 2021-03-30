@@ -100,7 +100,7 @@ public class HomeFragment extends Fragment {
         });
         menu_coba_listen = view.findViewById(R.id.home_menu_alquran);
         menu_coba_listen.setOnClickListener(v -> {
-            startActivity(new Intent(getContext(), DialogsheetDetailCategoryActivity.class));
+            startActivity(new Intent(getContext(), FavoriteActivity.class));
         });
 
 

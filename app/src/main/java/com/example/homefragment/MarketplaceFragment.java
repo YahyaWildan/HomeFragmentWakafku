@@ -2,11 +2,16 @@ package com.example.homefragment;
 
 import android.os.Bundle;
 
+import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
+import androidx.viewpager2.widget.ViewPager2;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.google.android.material.tabs.TabLayout;
+import com.google.android.material.tabs.TabLayoutMediator;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -23,6 +28,8 @@ public class MarketplaceFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+    TabLayout tabLayout;
+    ViewPager2 viewPager;
 
     public MarketplaceFragment() {
         // Required empty public constructor
@@ -59,6 +66,37 @@ public class MarketplaceFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_marketplace, container, false);
+        View view = inflater.inflate(R.layout.fragment_marketplace, container, false);
+        viewPager = view.findViewById(R.id.marketplace_viewpager_category_produc);
+        viewPager.setAdapter(new ViewPagerMarketplaceCategoryProduc(this));
+
+        tabLayout = view.findViewById(R.id.marketplace_tablayout_category_produc);
+        TabLayoutMediator tabLayoutMediator = new TabLayoutMediator(
+                tabLayout, viewPager, new TabLayoutMediator.TabConfigurationStrategy() {
+            @Override
+            public void onConfigureTab(@NonNull TabLayout.Tab tab, int position) {
+                switch (position) {
+                    case 0:
+                        tab.setText("Semua");
+                        break;
+                    case 1:
+                        tab.setText("Mukena");
+                        break;
+                    case 2:
+                        tab.setText("Hijab");
+                        break;
+                    case 3:
+                        tab.setText("Peci");
+                        break;
+                    case 4:
+                        tab.setText("Gamis");
+                        break;
+                }
+            }
+        }
+        );
+        tabLayoutMediator.attach();
+
+        return view;
     }
 }
