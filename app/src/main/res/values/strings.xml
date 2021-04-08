@@ -14,7 +14,8 @@
     <string name="txt_lain_lain">Lain-lain</string>
     <string name="txt_berita">Berita</string>
     <string name="txt_lebih_banyak">Lebih banyak</string>
-    <string name="txt_lorem">Lorem ipsum dolor sit amet, dururu consectetur adipiscing elit. Non quis mi, et tristique sed.</string>
+    <string name="txt_lorem">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quam laoreet sollicitudin risus in elementum. Placerat sed eu adipiscing eget integer. Pretium eget sed tincidunt at suscipit.</string>
     <string name="txt_tgl">21 Februari 2021</string>
     <string name="txt_title">Judul</string>
     <string name="txt_readmore">Read More</string>
@@ -126,6 +127,36 @@
     <string name="txt_select_all">Pilih semua</string>
     <string name="txt_delete">Hapus</string>
     <string name="txt_total_harga">Total Harga</string>
+    <string name="txt_detail_product">Detail Produk</string>
+    <string name="txt_name_store">Toko Tunik</string>
+    <string name="txt_address">Semarang, Jawa Tengah</string>
+    <string name="txt_color">Warna</string>
+    <string name="txt_detail_pesanan">Detail Pesanan</string>
+    <string name="txt_alamat_pengiriman">Alamat Pengiriman</string>
+    <string name="txt_ex_address">Jl. Kelud Raya No 32-34 Petompon,Gajah Mungkur, Semarang,50273</string>
+    <string name="txt_toko_tunik">Toko Tunik</string>
+    <string name="txt_pengiriman">Pengiriman</string>
+    <string name="txt_ringkasan_belanja">Ringkasan Belanja</string>
+    <string name="txt_jumlah_produk">Jumlah Produk</string>
+    <string name="txt_price_courier_delivery">siCepat GOKIL (Rp 30.000)</string>
+    <string name="txt_estimasi">Estimasi pengiriman 2-3 hari</string>
+    <string name="txt_quantity_product">2 produk</string>
+    <string name="txt_harga_produk">Harga produk</string>
+    <string name="txt_ongkos_kirim">Ongkos kirim</string>
+    <string name="txt_total_tagihan">Total Tagihan</string>
+    <string name="txt_info_payment">Informasi Pembayaran</string>
+    <string name="txt_deadline">Lakukan pembayaran sebelum 2 Februari 2020</string>
+    <string name="code_payment">Kode Pembayaran</string>
+    <string name="txt_copy">Salin</string>
+    <string name="txt_panduan_pembayaran">Panduan Pembayaran</string>
+    <string name="txt_tagihan_sudah_termasuk_biaya_layanan">Tagihan sudah termasuk biaya layanan</string>
+    <string name="txt">Pembayaran di gerai lain akan dikenakan biaya  berbeda</string>
+    <string name="txt_pilih_pembayaran">Pilih Pembayaran</string>
+    <string name="txt_list_address">Daftar Alamat</string>
+    <string name="txt_tambah_alamat">Tambah Alamat</string>
+    <string name="txt_lainnya">Lainnya</string>
+    <string name="txt_ubah_alamat">Ubah Alamat</string>
+    <string name="txt_hapus_alamat">Hapus Alamat</string>
 
 
     <!--    string array spinner infak-->

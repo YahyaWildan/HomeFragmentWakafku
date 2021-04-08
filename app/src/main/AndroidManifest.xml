@@ -12,7 +12,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HomeFragment">
-        <activity android:name=".CartActivity"></activity>
+        <activity android:name=".ChangeAddressActivity"></activity>
+        <activity android:name=".ListAddressActivity" />
+        <activity android:name=".InfoPaymentMarketplaceActivity" />
+        <activity android:name=".DetailPesananActivity" />
+        <activity android:name=".DetailProductActivity" />
+        <activity android:name=".CartActivity" />
         <activity android:name=".FavoriteActivity" />
         <activity android:name=".InfoPaymentActivity" />
         <activity android:name=".DialogsheetDetailCategoryActivity" />

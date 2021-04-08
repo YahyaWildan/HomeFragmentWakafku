@@ -15,6 +15,7 @@
     <color name="txtcolor_navbar_kajian">#00733C</color>
     <color name="light_gray">#CACCCF</color>
     <color name="bg_color">#D5F8F8F8</color>
-
+    <color name="dark">#52575C</color>
+    <color name="bg_layout">#F6F7FA</color>
 
 </resources>

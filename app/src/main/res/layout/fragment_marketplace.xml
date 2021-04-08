@@ -50,6 +50,7 @@
                 android:id="@+id/img_marketplace_header"
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
+                android:scaleType="fitXY"
                 android:contentDescription="@string/app_name"
                 android:src="@drawable/heaeder" />
 
